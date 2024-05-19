@@ -1,5 +1,5 @@
 # Turn ReWrite Engine On
 RewriteEngine on
 # Rewrite for 2.html
-RewriteRule ^fucknigga 2.html [NC,L]
+RewriteRule ^fucknigga fucknigga.html [NC,L]
 RewriteRule ^3 3.html [NC,L]
